@@ -25,9 +25,9 @@ Brisanje čvora se vrši klikom na dugme Delete (na slici). Nakon vršenja ove a
 
 Vrši se putem biblioteke i za specifičan fajl.
 
-### Prikaz porodičnog stabla (primer izgleda prikazanog stabla na slici example.png)
+### Prikaz struktura (primer izgleda prikazane strukture na slici example.png)
 
-Prikaz porodičnog stabla je interaktivan što znači da će korisnik moći da klikom na čvorove manipuliše njima i njihovim child čvorovima.
+Prikaz sturktura je interaktivan što znači da će korisnik moći da klikom na čvorove manipuliše njima i njihovim child čvorovima.
 
 ### Čuvanje novih struktura
 
